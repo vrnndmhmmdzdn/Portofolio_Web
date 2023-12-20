@@ -356,7 +356,7 @@ nav {
   width: 100%;
   position: absolute;
   right: 0;
-  top: 3em;
+  top: 2.5em;
   cursor: pointer;
   transition: .25s ease-in-out;
 }
